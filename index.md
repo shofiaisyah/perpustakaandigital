@@ -13,7 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pengantar Teknologi Informasi](ebook/Pengantar-Teknologi-Informasi.pdf) - Abdul Karim, dkk (2020)
 10. [Ilmu Perpustakaa](ebook/Ilmu-Perpustakaan.pdf) - Miftha Khulzannah, dkk (2025)
 11. [Ringkasan Pemaparan UGC PATI](ebook/Ringkasan-pemaparan-UGC-PATI.pdf) - Shofi Aisyah Rasyidi (2026)
-12. [Library Anxiety pada Mahasiswa Ilmu Perpustakaan UIN Sumatera Utara dan Universitas Sam Ratulangi Manado](ebook/Library Anxiety pada Mahasiswa Ilmu Perpustakaan UIN Sumatera Utara dan Universitas Sam Ratulangi Manado.pdf) – Muhammad Ridwan dan Suci Ramadhani Nalole (2025)
-13. Contoh buku lain
+12. Contoh buku lain
 ---
 *Powered by GitHub Pages*
