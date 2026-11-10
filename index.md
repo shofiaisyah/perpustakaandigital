@@ -19,5 +19,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pengantar Teknologi Informasi](ebook/Pengantar-Teknologi-Informasi.pdf) - Abdul Karim, dkk (2020)
 10. [Ilmu Perpustakaa](ebook/Ilmu-Perpustakaan.pdf) - Miftha Khulzannah, dkk (2025)
 11. [Ringkasan Pemaparan UGC PATI](ebook/Ringkasan-pemaparan-UGC-PATI.pdf) - Shofi Aisyah Rasyidi (2026)
+
+
+    
 ---
 *Powered by GitHub Pages*
