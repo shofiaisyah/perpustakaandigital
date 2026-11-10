@@ -17,7 +17,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Tentang Menjadi Dosen](ebook/Tentang-Menjadi-Dosen.pdf) - Fathul Wahid (2010)
 8. [Dasar-Dasar Pengantar Teknologi Informasi](ebook/Dasar-Dasar-PTI.pdf) - Bayu Rianto dan Welly Dozan (2020)
 9. [Pengantar Teknologi Informasi](ebook/Pengantar-Teknologi-Informasi.pdf) - Abdul Karim, dkk (2020)
-10. [Ilmu Perpustakaa](ebook/Ilmu-Perpustakaan.pdf) - Miftha Khulzannah, dkk (2025)
+10. [Ilmu Perpustakaan](ebook/Ilmu-Perpustakaan.pdf) - Miftha Khulzannah, dkk (2025)
 11. [Ringkasan Pemaparan UGC PATI](ebook/Ringkasan-pemaparan-UGC-PATI.pdf) - Shofi Aisyah Rasyidi (2026)
 
 
