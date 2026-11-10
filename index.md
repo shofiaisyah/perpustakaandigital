@@ -1,7 +1,9 @@
 # Digital Library
 Disusun guna memenuhi nilai mata kuliah Praktikum Aplikasi Teknologi Informasi
+
 Nama : Shofi Aisyah Rasyidi
 NIM  : 13040124140175
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
