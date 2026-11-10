@@ -4,9 +4,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Terdampar di Dunia Plastik](ebook/Terdampar-di-Dunia-Plastik.pdf) - Sukini (2019)
 2. [Akhlak Nge-Medsos Panduan Jadi Netizen Shaleh](ebook/Akhlak_Nge-Medsos_Panduan_Jadi_Netizen_Shaleh.pdf) - Irfan Nur Hakim (2018)
-3. [Le Petit Prince (Pangeran Kecil)](ebook/Le Petit Prince (Pangeran Kecil)-Antoine De Saint-Exupery.pdf) - Antoine De Saint-Expuery (1943)
+3. [Le Petit Prince (Pangeran Kecil)](ebook/Le_Petit_Prince)-Antoine De Saint-Exupery.pdf) - Antoine De Saint-Expuery (1943)
 4. [Candi Pustaka](ebook/Candi-Pustaka-Relief-Cerita-dari-Candi-Jago-Malang.pdf) - Shienny Megawati dan Marina Wardaya (2021)
-5. [Perpustakaan Antara Layanan, Kinerja & Harapan Pengguna](ebook/Perpustakaan_Antara Layanan, Kinerja, & Harapan Pengguna.pdf) - Muhammad Tahir (2020)
+5. [Perpustakaan Antara Layanan, Kinerja & Harapan Pengguna](ebook/Perpustakaan_Antara_Layanan_Kinerja_Harapan_Pengguna.pdf) - Muhammad Tahir (2020)
 6. [Bagaimana Orang Tua Membelajarkan Anak-Anak di Rumah dengan Teknologi Digital?](ebool/Pembelajaran-Anak-di-Rumah-dengan-Teknologi-Digital.pdf) - Prof.Dr. Sigit Purnama, S.Pd.I, M.Pd (2023)
 7. [Tentang Menjadi Dosen](ebook/Tentang-Menjadi-Dosen.pdf) - Fathul Wahid (2010)
 8. [Dasar-Dasar Pengantar Teknologi Informasi](ebook/Dasar-Dasar-PTI.pdf) - Bayu Rianto dan Welly Dozan (2020)
